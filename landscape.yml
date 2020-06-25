@@ -1104,6 +1104,7 @@ landscape:
           - item:
             name: Crossplane
             homepage_url: 'https://crossplane.io/'
+            project: sandbox
             repo_url: 'https://github.com/crossplane/crossplane'
             logo: crossplane.svg
             twitter: 'https://twitter.com/crossplane_io'
